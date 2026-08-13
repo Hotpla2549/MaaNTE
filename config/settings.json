@@ -1,0 +1,25 @@
+{
+  "app": { "name": "MaaNTE", "version": "1.1.0", "framework": "MaaFramework v5.12.3" },
+  "game": {
+    "title": "Neverness to Everness",
+    "version": "1.2",
+    "resolution": "1920x1080",
+    "windowMode": "borderless"
+  },
+  "capture": {
+    "method": "auto",
+    "fps": 10,
+    "region": "fullscreen"
+  },
+  "input": {
+    "method": "sendinput",
+    "jitterPixels": 3,
+    "minDelayMs": 50,
+    "maxDelayMs": 120
+  },
+  "logging": {
+    "level": "info",
+    "saveScreenshots": false,
+    "directory": "logs"
+  }
+}

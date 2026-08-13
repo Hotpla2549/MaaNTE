@@ -1,0 +1,38 @@
+# NTE Daily Commissions Pipeline
+# Auto-completes all daily commission tasks
+
+task: daily_commissions
+steps:
+  - name: open_menu
+    recognize: menu_button
+    action: click
+    timeout: 5000
+
+  - name: navigate_commissions
+    recognize: commissions_tab
+    action: click
+    timeout: 3000
+
+  - name: check_unclaimed
+    recognize: commission_unclaimed_icon
+    threshold: 0.85
+    on_fail: goto done
+
+  - name: accept_task
+    recognize: accept_button
+    action: click
+    delay_after: 800
+
+  - name: auto_path
+    recognize: auto_navigate_button
+    action: click
+    wait_for: task_complete_popup
+    timeout: 120000
+
+  - name: claim_reward
+    recognize: claim_button
+    action: click
+    next: check_unclaimed
+
+  - name: done
+    log: "Daily commissions complete"

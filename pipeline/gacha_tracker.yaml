@@ -1,0 +1,34 @@
+# NTE Gacha Roll Tracker Pipeline
+# Tracks pulls, pity counter, and rate statistics
+
+task: gacha_tracker
+steps:
+  - name: open_gacha
+    recognize: gacha_menu_icon
+    action: click
+    timeout: 5000
+
+  - name: read_history
+    recognize: history_button
+    action: click
+    delay_after: 1000
+
+  - name: scan_pulls
+    recognize: pull_entry
+    action: ocr_region
+    region: [200, 300, 1520, 700]
+    store: pull_data
+
+  - name: compute_pity
+    action: calculate
+    input: pull_data
+    output: pity_count
+
+  - name: log_stats
+    action: write_log
+    message: "Pity: ${pity_count} | Total pulls: ${total_pulls}"
+
+  - name: export_csv
+    action: export
+    format: csv
+    path: "logs/gacha_history.csv"

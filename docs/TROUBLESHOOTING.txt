@@ -1,0 +1,27 @@
+# MaaNTE - Troubleshooting
+
+## Recognition fails
+1. Set game resolution to 1920x1080 borderless.
+2. Disable any ReShade or overlay that alters colors.
+3. Set in-game brightness to default.
+4. Lower the recognition threshold in config/tasks.cfg.
+
+## Tasks stall mid-run
+1. Check network stability - loading screens break timing.
+2. Increase step timeouts in the pipeline YAML.
+3. Enable debug screenshots in settings to see what the CV sees.
+
+## Input not registering
+1. Run MaaNTE as Administrator.
+2. Ensure the game window is focused.
+3. Try the alternative input method in settings.
+
+## Linux capture issues
+1. On Wayland, grant screen capture permission when prompted.
+2. On X11, ensure the game runs in the same X session.
+3. Use the "auto" capture method to let the framework pick.
+
+## Gacha tracker miscounts pity
+1. Re-sync by opening the in-game history page manually once.
+2. Export CSV and verify the last entries.
+3. Multi-pull banners need one extra scan cycle.

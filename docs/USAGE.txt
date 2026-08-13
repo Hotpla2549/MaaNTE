@@ -1,0 +1,27 @@
+# MaaNTE - Usage Guide
+
+## Quick Start
+1. Launch NTE and set resolution to 1920x1080 (borderless).
+2. Run MaaNTE.exe.
+3. Select a task from the list.
+4. Press Start - the assistant takes over input.
+
+## Tasks
+- **daily_commissions** - auto-complete all dailies
+- **resource_farming** - farm materials and currency
+- **anomaly_investigation** - investigation task chains
+- **gacha_tracker** - pull history, pity counter, CSV export
+- **combat_assist** - rotation and dodge timing
+- **login_rewards** - claim daily rewards
+- **esper_training** - training routines
+- **vehicle_missions** - driving objectives
+
+## Customizing Pipelines
+All tasks are YAML files in the pipeline/ folder.
+Edit steps, thresholds, and regions without recompiling.
+
+## Safety Notes
+- MaaNTE uses computer vision only - no injection
+- Input simulation includes human-like jitter and delays
+- Built-in session limits prevent marathon runs
+- Random breaks keep behavior patterns natural
